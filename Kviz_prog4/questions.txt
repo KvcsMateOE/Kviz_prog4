@@ -1,0 +1,9 @@
+﻿1;Mikor volt a nándorfehérvári diadal?;1456;1457;1455;1458;1
+2;Mikor született Kovács Máté ismertebb nevén LH?;1997;1998;1999;2000;4
+3;Mit jelent az LH rövidítés?;Legnagyobb Hős;Legnagyobb Hazafi;Legkegyenletebb Hóhér;Letkési Hiéna;4
+4;Mikor volt a nándorfehérvári diadal?;1456;1457;1455;1458;1
+5;Mikor született Kovács Máté ismertebb nevén LH?;1997;1998;1999;2000;4
+6;Mit jelent az LH rövidítés?;Legnagyobb Hős;Legnagyobb Hazafi;Legkegyenletebb Hóhér;Letkési Hiéna;4
+7;Mikor volt a nándorfehérvári diadal?;1456;1457;1455;1458;1
+8;Mikor született Kovács Máté ismertebb nevén LH?;1997;1998;1999;2000;4
+9;Mit jelent az LH rövidítés?;Legnagyobb Hős;Legnagyobb Hazafi;Legkegyenletebb Hóhér;Letkési Hiéna;4
